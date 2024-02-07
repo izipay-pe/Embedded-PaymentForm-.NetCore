@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EmbeddedPaymentForm.props" />
+</Project>
