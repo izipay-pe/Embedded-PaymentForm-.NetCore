@@ -33,7 +33,7 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
 ### Ejecutar proyecto
 Accede al archivo Solution `EmbeddedPaymentForm.sln` dentro de la carpeta `Embedded-PaymentForm-.NetCore` una vez dentro del código ejecutamos el proyecto con el comando `F5`, se abrirá en tu navegador predeterminado y accedera en la siguiente ruta: 
 ```sh
-https://localhost:44345/
+https://localhost:44350/
  ```
 <p align="center">
   <img src="https://i.postimg.cc/Bb11T1J7/ejecutarproyecto.jpg" alt="Formulario" width="350"/>
