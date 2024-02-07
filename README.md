@@ -31,7 +31,7 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
   git clone [https://github.com/izipay-pe/Embedded-PaymentForm-.NetCore.git]
   ```
 ### Ejecutar proyecto
-Accede al archivo Solution `EmbeddedPaymentForm.sln` dentro de la carpeta `Embedded-PaymentForm-.Net` una vez dentro del código ejecutamos el proyecto con el comando `F5`, se abrirá en tu navegador predeterminado y accedera en la siguiente ruta: 
+Accede al archivo Solution `EmbeddedPaymentForm.sln` dentro de la carpeta `Embedded-PaymentForm-.NetCore` una vez dentro del código ejecutamos el proyecto con el comando `F5`, se abrirá en tu navegador predeterminado y accedera en la siguiente ruta: 
 ```sh
 https://localhost:44345/
  ```
